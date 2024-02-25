@@ -14,7 +14,7 @@ ORDER BY "hire_date";
 
 --List the manager of each department along with their department number, department name, employee number, last name, and first name
 SELECT m.dept_no, d.dept_name, e.emp_no, e.last_name, e.first_name
-FROM employees As e 
+FROM employees AS e 
 	JOIN dept_manager AS m ON e.emp_no = m.emp_no 
 	JOIN departments AS d ON m.dept_no = d.dept_no 
 ORDER BY "dept_no";
@@ -22,7 +22,7 @@ ORDER BY "dept_no";
 
 --List the department number for each employee along with that employee’s employee number, last name, first name, and department name
 SELECT de.dept_no, e.emp_no, e.last_name, e.first_name, d.dept_name 
-FROM employees As e 
+FROM employees AS e 
 	JOIN dept_emp AS de ON e.emp_no = de.emp_no 
 	JOIN departments AS d ON de.dept_no = d.dept_no 
 ORDER BY "dept_no";
@@ -37,7 +37,7 @@ ORDER BY "last_name";
 
 --List each employee in the Sales department, including their employee number, last name, and first name
 SELECT d.dept_name, e.emp_no, e.last_name, e.first_name
-FROM employees As e 
+FROM employees AS e 
 	JOIN dept_emp AS de ON e.emp_no = de.emp_no 
 	JOIN departments AS d ON de.dept_no = d.dept_no 
 WHERE (dept_name LIKE 'Sales') 
@@ -46,7 +46,7 @@ ORDER BY "emp_no";
 
 --List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name 
 SELECT e.emp_no, e.last_name, e.first_name, d.dept_name
-FROM employees As e 
+FROM employees AS e 
 	JOIN dept_emp AS de ON e.emp_no = de.emp_no 
 	JOIN departments AS d ON de.dept_no = d.dept_no 
 WHERE ((dept_name LIKE 'Sales') OR (dept_name LIKE 'Development')) 
