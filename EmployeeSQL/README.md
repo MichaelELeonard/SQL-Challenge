@@ -13,7 +13,7 @@ EmployeeSQL ERD was created using QuickDBD at https://www.quickdatabasediagrams.
 
 Data Engineering
 
-The exported SQL file from QuickDBD was import into PostgreSQL and the resulting schema code was used to create the tables and constraints of the SQL-CHALLENGE database.  Data from the six CSV were then uploaded into the database tables and db constrains were established for analysis. 
+The exported SQL file from QuickDBD was import into PostgreSQL and the resulting schema code was used to create the tables and constraints of the SQL-CHALLENGE database.  Data from the six CSV files were then uploaded into the database tables and db constrains were established for analysis. 
  
 Data Analysis
 
