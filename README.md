@@ -24,18 +24,25 @@ For the Data Analysis portion of the project the resulting db was queried eight 
 
 * List the employee number, last name, first name, sex, and salary of each employee.
 <img src="Pics/Query1.png" width="464" height="85">
+
 * List the first name, last name, and hire date for the employees who were hired in 1986.
 <img src="Pics/Query2.png" width="474" height="82">
+
 * List the manager of each department along with their department number, department name, employee number, last name, and first name.
 <img src="Pics/Query3.png" width="527" height="100">
+
 * List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
 <img src="Pics/Query4.png" width="523" height="101">
+
 * List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
 <img src="Pics/Query5.png" width="489" height="89">
+
 * List each employee in the Sales department, including their employee number, last name, and first name.
 <img src="Pics/Query6.png" width="438" height="120">
+
 * List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 <img src="Pics/Query7.png" width="528" height="119">
+
 * List the frequency counts, in descending order, of all the employee’s last names.
 <img src="Pics/Query8.png" width="281" height="87">
 
