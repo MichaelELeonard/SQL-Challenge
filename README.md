@@ -46,7 +46,7 @@ For the Data Analysis portion of the project the resulting db was queried eight 
 * List the frequency counts, in descending order, of all the employee’s last names.
 <img src="Pics/Query8.png" width="281" height="87">
 
-All the requested queries were able to be run with no errors and the appropriate data results were able to be acquired.
+All the requested queries were able to be run with no errors and the appropriate data results was able to be acquired.
 
 
 
