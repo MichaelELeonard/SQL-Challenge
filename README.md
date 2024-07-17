@@ -21,14 +21,15 @@ The exported SQL file from QuickDBD was import into PostgreSQL and the resulting
 ## Data Analysis
 
 For the Data Analysis portion of the project the resulting db was queried eight times to acquire the data requested by Pewlett Hackard.  These queried included:
-*List the employee number, last name, first name, sex, and salary of each employee.
-*List the first name, last name, and hire date for the employees who were hired in 1986.
+
+* List the employee number, last name, first name, sex, and salary of each employee.
+* List the first name, last name, and hire date for the employees who were hired in 1986.
 * List the manager of each department along with their department number, department name, employee number, last name, and first name.
-*List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
-*List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
-*List each employee in the Sales department, including their employee number, last name, and first name.
-*List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
-*List the frequency counts, in descending order, of all the employee’s last names.
+* List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
+* List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
+* List each employee in the Sales department, including their employee number, last name, and first name.
+* List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
+* List the frequency counts, in descending order, of all the employee’s last names.
 
 All the requested queries were able to be run with no errors and the appropriate data results were able to be acquired.
 
