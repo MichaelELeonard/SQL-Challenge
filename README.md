@@ -30,7 +30,7 @@ For the Data Analysis portion of the project the resulting db was queried eight 
 <br> 
 
 * List the first name, last name, and hire date for the employees who were hired in 1986.
-<img src="Pics/Query2.png" width="576" height="103">
+<img src="Pics/Query2.png" width="578" height="109">
 
 <img src="Pics/Query2 Results.png" width="431" height="262">
 
