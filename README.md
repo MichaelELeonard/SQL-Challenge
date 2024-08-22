@@ -5,10 +5,10 @@
 For the challenge we were tasked to do a research project about people employed at the Pewlett Hackard during the 1980s and 1990s. A database was created and six CSV files containing company data were entered into tables so that a quarry analysis could be performed.  
 Files submitted for this project include:
 
-*EmployeeSQL ERD PNG file– Outlining to schema of the EmployeeSQL database.
-*EmployeeSQL table schemata SQL Source File – Used to crease the db tables, establish primary, foreign keys and table constraints.
-*EmployeeSQL queries SQL Source File – Code to perform queries on db
-*README Markdown Source File – Used to outline sql-challenge project and  EmployeeSQL database design and queries conducted
+* EmployeeSQL ERD PNG file– Outlining to schema of the EmployeeSQL database.
+* EmployeeSQL table schemata SQL Source File – Used to crease the db tables, establish primary, foreign keys and table constraints.
+* EmployeeSQL queries SQL Source File – Code to perform queries on db
+* README Markdown Source File – Used to outline sql-challenge project and  EmployeeSQL database design and queries conducted
 
 ## Data Modeling
 
