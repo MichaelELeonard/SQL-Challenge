@@ -23,27 +23,43 @@ The exported SQL file from QuickDBD was import into PostgreSQL and the resulting
 For the Data Analysis portion of the project the resulting db was queried eight times to acquire the data requested by Pewlett Hackard.  These queried included:
 
 * List the employee number, last name, first name, sex, and salary of each employee.
-<img src="Pics/Query1.png" width="464" height="85">
+<img src="Pics/Query1.png" width="576" height="103">
+
+<img src="Pics/Query1 Results.png" width="617" height="263">
+
 
 * List the first name, last name, and hire date for the employees who were hired in 1986.
-<img src="Pics/Query2.png" width="474" height="82">
+<img src="Pics/Query2.png" width="576" height="103">
+
+<img src="Pics/Query2 Results.png" width="431" height="262">
 
 * List the manager of each department along with their department number, department name, employee number, last name, and first name.
-<img src="Pics/Query3.png" width="527" height="100">
+<img src="Pics/Query3.png" width="638" height="117">
+
+<img src="Pics/Query3 Results.png" width="664" height="260">
 
 * List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
-<img src="Pics/Query4.png" width="523" height="101">
+<img src="Pics/Query4.png" width="633" height="122">
 
+<img src="Pics/Query4 Results.png" width="660" height="261">
 * List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
-<img src="Pics/Query5.png" width="489" height="89">
+<img src="Pics/Query5.png" width="587" height="101">
+
+<img src="Pics/Query5 Results.png" width="361" height="262">
 
 * List each employee in the Sales department, including their employee number, last name, and first name.
-<img src="Pics/Query6.png" width="438" height="120">
+<img src="Pics/Query6.png" width="534" height="135">
+
+<img src="Pics/Query6 Results.png" width="529" height="260">
 
 * List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
-<img src="Pics/Query7.png" width="528" height="119">
+<img src="Pics/Query7.png" width="621" height="139">
+
+<img src="Pics/Query7 Results.png" width="534" height="262">
 
 * List the frequency counts, in descending order, of all the employee’s last names.
-<img src="Pics/Query8.png" width="281" height="87">
+<img src="Pics/Query8.png" width="348" height="96">
+
+<img src="Pics/Query8 Results.png" width="393" height="261">
 
 All the requested queries were able to be run with no errors and all appropriate data results were acquired.
