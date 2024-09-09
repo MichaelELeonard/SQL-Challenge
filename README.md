@@ -1,6 +1,6 @@
 <img src="Pics/Header.png" width="894" height="503">
 
-# MODULE 9 - SQL-CHALLENGE
+# SQL-CHALLENGE
 
 For the challenge we were tasked to do a research project about people employed at the Pewlett Hackard during the 1980s and 1990s. A database was created and six CSV files containing company data were entered into tables so that a quarry analysis could be performed.  
 Files submitted for this project include:
