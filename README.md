@@ -78,4 +78,3 @@ For the Data Analysis portion of the project, the database was queried eight tim
 
 <br> 
 
-All the requested queries were able to be run with no errors and all appropriate data results were acquired.
