@@ -11,7 +11,7 @@ Files submitted for this project include:
 
 ## Data Modeling
 
-EmployeeSQL ERD was created using QuickDBD at https://www.quickdatabasediagrams.com.  The tables were designed through the QuickDBD database and were exported as a PostgreSQL file which was uploaded into PostgreSQL.  
+EmployeeSQL ERD was created using QuickDBD at https://www.quickdatabasediagrams.com.
 
 <img src="Pics/ERD.png" width="821" height="561">
 
