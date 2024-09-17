@@ -17,10 +17,10 @@ EmployeeSQL ERD was created using QuickDBD at https://www.quickdatabasediagrams.
 
 ## Data Engineering
 
-The exported SQL file from QuickDBD was import into PostgreSQL and the resulting schema code was used to create the tables and constraints of the SQL-CHALLENGE database.  Data from the six CSV flies were then uploaded into the database tables and db constrains were established for analysis.  
+The exported SQL file from QuickDBD was import into PostgreSQL and the resulting schema code was used to create the tables of the SQL database.  Data from the six CSV flies were then uploaded into the database tables and database constrains were established.  
 ## Data Analysis
 
-For the Data Analysis portion of the project the resulting db was queried eight times to acquire the data requested by Pewlett Hackard.  These queried included:
+For the Data Analysis portion of the project, the database was queried eight times to acquire the data requested by Pewlett Hackard.  These queried included:
 
 * List the employee number, last name, first name, sex, and salary of each employee.
 <img src="Pics/Query1.png" width="576" height="103">
