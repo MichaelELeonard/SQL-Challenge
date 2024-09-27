@@ -5,11 +5,11 @@
 For the challenge we were tasked to do a research project about people employed at the Pewlett Hackard during the 1980s and 1990s. A database was created and six CSV files containing company data were entered into tables so that a quarry analysis could be performed.  
 Files submitted for this project include:
 
-*[EmployeeSQL ERD PNG file Link]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20ERD.png) 
+* [EmployeeSQL ERD PNG file Link]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20ERD.png) 
 
-*[EmployeeSQL table schemata SQL Source File Link]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20table%20schemata.sql)
+* [EmployeeSQL table schemata SQL Source File Link]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20table%20schemata.sql)
 
-*[EmployeeSQL queries SQL Source File Link]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20queries.sql)
+* [EmployeeSQL queries SQL Source File Link]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20queries.sql)
 
 
 ## Data Modeling
