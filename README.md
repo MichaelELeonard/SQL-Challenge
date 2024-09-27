@@ -25,7 +25,7 @@ The exported SQL file from QuickDBD was import into PostgreSQL and the resulting
 
 For the Data Analysis portion of the project, the database was queried eight times to acquire the data requested by Pewlett Hackard.  These queried included:
 
-* List the employee number, last name, first name, sex, and salary of each employee.
+## List the employee number, last name, first name, sex, and salary of each employee.
 <img src="Pics/Query1.png" width="576" height="103">
 
 <img src="Pics/Query1 Results.png" width="617" height="263">
