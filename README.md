@@ -28,7 +28,6 @@ For the Data Analysis portion of the project, the database was queried eight tim
 <br> 
 
 * List the employee number, last name, first name, sex, and salary of each employee.
-<img src="Pics/Query1.png" width="576" height="103">
 
 <img src="Pics/Query1 Results.png" width="617" height="263">
 
