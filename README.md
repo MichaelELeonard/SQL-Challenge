@@ -6,7 +6,9 @@ For the challenge we were tasked to do a research project about people employed 
 Files submitted for this project include:
 
 *[EmployeeSQL ERD PNG file Link]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20ERD.png) 
+
 *[EmployeeSQL table schemata SQL Source File Link]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20table%20schemata.sql)
+
 *[EmployeeSQL queries SQL Source File Link]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20queries.sql)
 
 
