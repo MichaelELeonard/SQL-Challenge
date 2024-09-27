@@ -5,11 +5,11 @@
 For the challenge we were tasked to do a research project about people employed at the Pewlett Hackard during the 1980s and 1990s. A database was created and six CSV files containing company data were entered into tables so that a quarry analysis could be performed.  
 Files submitted for this project include:
 
-* [EmployeeSQL ERD PNG file Link]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20ERD.png) 
+* [EmployeeSQL ERD]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20ERD.png) 
 
-* [EmployeeSQL table schemata SQL Source File Link]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20table%20schemata.sql)
+* [EmployeeSQL Table Schemata]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20table%20schemata.sql)
 
-* [EmployeeSQL queries SQL Source File Link]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20queries.sql)
+* [EmployeeSQL Queries]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20queries.sql)
 
 
 ## Data Modeling
@@ -20,13 +20,13 @@ EmployeeSQL ERD was created using [QuickDBD]( https://www.quickdatabasediagrams.
 <img src="Pics/ERD.png" width="821" height="561">
 
 ## Data Engineering
-[EmployeeSQL table schemata SQL]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20table%20schemata.sql)
+[EmployeeSQL Table Schemata]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20table%20schemata.sql)
 
 
 The exported SQL file from QuickDBD was import into PostgreSQL and the resulting schema code was used to create the tables of the SQL database.  Data from the six CSV flies were then uploaded into the tables and the constrains were established.  
 ## Data Analysis
 
-* [EmployeeSQL queries]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20queries.sql)
+* [EmployeeSQL Queries]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20queries.sql)
 
 
 For the Data Analysis portion of the project, the database was queried eight times to acquire the data requested by Pewlett Hackard.  These queried included:
