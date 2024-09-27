@@ -34,49 +34,42 @@ For the Data Analysis portion of the project, the database was queried eight tim
 <br> 
 
 * List the first name, last name, and hire date for the employees who were hired in 1986.
-<img src="Pics/Query2.png" width="578" height="109">
 
 <img src="Pics/Query2 Results.png" width="431" height="262">
 
 <br> 
 
 * List the manager of each department along with their department number, department name, employee number, last name, and first name.
-<img src="Pics/Query3.png" width="638" height="117">
 
 <img src="Pics/Query3 Results.png" width="664" height="260">
 
 <br> 
 
 * List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
-<img src="Pics/Query4.png" width="633" height="122">
 
 <img src="Pics/Query4 Results.png" width="660" height="261">
 
 <br> 
 
 * List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
-<img src="Pics/Query5.png" width="587" height="101">
 
 <img src="Pics/Query5 Results.png" width="361" height="262">
 
 <br> 
 
 * List each employee in the Sales department, including their employee number, last name, and first name.
-<img src="Pics/Query6.png" width="534" height="135">
 
 <img src="Pics/Query6 Results.png" width="529" height="260">
 
 <br> 
 
 * List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
-<img src="Pics/Query7.png" width="621" height="139">
 
 <img src="Pics/Query7 Results.png" width="534" height="262">
 
 <br> 
 
 * List the frequency counts, in descending order, of all the employee’s last names.
-<img src="Pics/Query8.png" width="348" height="96">
 
 <img src="Pics/Query8 Results.png" width="393" height="261">
 
