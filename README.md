@@ -23,7 +23,7 @@ EmployeeSQL ERD was created using [QuickDBD]( https://www.quickdatabasediagrams.
 [EmployeeSQL Table Schemata]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20table%20schemata.sql)
 
 
-The exported SQL file from QuickDBD was imported to PostgreSQL to create the tables of the SQL database.  Data from the six CSV flies was uploaded into the tables and the constrains were established.  
+The exported file from QuickDBD was imported to PostgreSQL to create the tables of the SQL database.  Data from the six CSV flies was uploaded into the tables and the constrains were established.  
 ## Data Analysis
 
 [EmployeeSQL Queries]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20queries.sql)
