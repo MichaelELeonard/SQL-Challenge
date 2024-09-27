@@ -2,7 +2,7 @@
 
 # SQL-CHALLENGE
 
-For the challenge we were tasked to do a research project about people employed at the Pewlett Hackard during the 1980s and 1990s. A database was created and six CSV files containing company data were entered into tables so that a quarry analysis could be performed.  
+For the challenge we were tasked to do a research project examining employes at the Pewlett Hackard during the 1980s and 1990s. A database was created and six CSV files containing company data were entered into tables so that a quarry analysis could be performed.  
 Files submitted for this project include:
 
 * [EmployeeSQL ERD]( https://github.com/MichaelELeonard/sql-challenge/blob/main/EmployeeSQL%20ERD.png) 
